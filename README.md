@@ -20,3 +20,6 @@ O site facilita o leitor a percorrer por todos os caminhos possíveis da histór
 - Javascript
 - Bootstrap
 - FontAwesome
+
+Projeto desenvolvido em conjunto com meu amigo, Natan rocha barbosa.
+https://www.linkedin.com/in/natanrochabarbosa/
