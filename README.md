@@ -22,4 +22,7 @@ O site facilita o leitor a percorrer por todos os caminhos possíveis da histór
 - FontAwesome
 
 Projeto desenvolvido em conjunto com meu amigo, Natan rocha barbosa.
+<br/>
 https://www.linkedin.com/in/natanrochabarbosa/
+<br/>
+Explore 100% dessa história aqui: https://lnkd.in/dCsPjgxG
